@@ -6,48 +6,53 @@
 - Networking & Cybersecurity
 
 # Tech Stack
-## Cybersecurity
-<p>
-  <img src="https://xandemon.github.io/developer-icons/icons/All/virustotal.svg" width="40" alt="VirusTotal" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/cisco.svg" width="40" alt="Cisco Talos" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/abuseipdb.svg" width="40" alt="AbuseIPDB" />
-</p>
-
-## Operating Systems
-<p>
-  <img src="https://xandemon.github.io/developer-icons/icons/All/linux.svg" width="40" alt="Linux" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/windows.svg" width="40" alt="Windows" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/apple-dark.svg" width="40" alt="macOS" />
-</p>
-
 ## Development Tools
 <p>
-  <img src="https://xandemon.github.io/developer-icons/icons/All/chatgpt.svg" width="40" alt="ChatGPT" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/claude-ai.svg" width="40" alt="Claude" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/cursor-dark.svg" width="40" alt="Cursor" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/google.svg" width="40" alt="Google Antigravity" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/visual-studio-code.svg" width="40" alt="Visual Studio Code" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/pycharm.svg" width="40" alt="PyCharm" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/android.svg" width="40" alt="Android Studio" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/apple-dark.svg" width="40" alt="Xcode" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/github-dark.svg" width="40" alt="GitHub" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/mysql.svg" width="40" alt="MySQL Workbench" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="36" height="36" alt="Xcode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL Workbench" />
 </p>
 
 ## Languages
 <p>
-  <img src="https://xandemon.github.io/developer-icons/icons/All/python.svg" width="40" alt="Python" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/php.svg" width="40" alt="PHP" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/mysql.svg" width="40" alt="SQL" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/html5.svg" width="40" alt="HTML5" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/css3.svg" width="40" alt="CSS3" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/javascript.svg" width="40" alt="JavaScript" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/typescript.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" height="36" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
 </p>
 
-## UI/UX Design
+## Frameworks
 <p>
-  <img src="https://xandemon.github.io/developer-icons/icons/All/figma.svg" width="40" alt="Figma" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/figma.svg" width="40" alt="Wireframing" />
-  <img src="https://xandemon.github.io/developer-icons/icons/All/figma.svg" width="40" alt="UI Design" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React Native" />
+</p>
+
+## Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase" />
+</p>
+
+## Deployment
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="36" height="36" alt="Cloudflare" />
+</p>
+
+## UI/UX
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
+</p>
+
+## Operating Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="36" height="36" alt="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="36" height="36" alt="macOS" />
 </p>
