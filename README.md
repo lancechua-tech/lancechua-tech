@@ -1,11 +1,14 @@
 <div align="center">
 
 # Hi, I'm Lance 👋
+I'm an aspiring Cybersecurity Professional with a strong interest in Security Operations Center (SOC) operations, threat detection, incident response, and security monitoring.
 
-## What I’m Learning
-- Security Operations & SOC Analysis
-- Threat Detection
-- Networking & Cybersecurity
+My goal is to build a career as a SOC Analyst, developing the technical expertise needed to identify, investigate, and respond to cybersecurity threats.
+
+I'm currently building my skills, documenting my learning journey, and working toward becoming a capable cybersecurity professional who can contribute to protecting organizations against evolving cyber threats.
+
+Focus Areas:
+SOC Operations • Threat Detection • Incident Response • SIEM • Log Analysis • Network Security • Threat Intelligence
 
 ## Tech Stack
 ### Development Tools
