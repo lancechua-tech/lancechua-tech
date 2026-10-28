@@ -12,11 +12,28 @@ I'm focused on Security Operations Center (SOC) operations, threat detection, in
 
 ### Cybersecurity Tools
 
-<a href="https://www.virustotal.com/"><img src="https://www.virustotal.com/gui/images/logo.svg" height="40" alt="VirusTotal" /></a>
-&nbsp;&nbsp;
-<a href="https://talosintelligence.com/"><img src="https://cdn.brandfetch.io/idxe4otrgT/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="Cisco Talos" /></a>
-&nbsp;&nbsp;
-<a href="https://www.abuseipdb.com/"><img src="https://www.abuseipdb.com/img/abuseipdb-logo.svg" height="40" alt="AbuseIPDB" /></a>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.virustotal.com/">
+        <img src="https://www.virustotal.com/gui/images/logo.svg" width="40" height="40" alt="VirusTotal" />
+      </a><br />
+      <sub><a href="https://www.virustotal.com/">VirusTotal</a></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://talosintelligence.com/">
+        <img src="https://cdn.brandfetch.io/idxe4otrgT/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40" alt="Cisco Talos" />
+      </a><br />
+      <sub><a href="https://talosintelligence.com/">Cisco Talos</a></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.abuseipdb.com/">
+        <img src="https://www.abuseipdb.com/img/abuseipdb-logo.svg" width="40" height="40" alt="AbuseIPDB" />
+      </a><br />
+      <sub><a href="https://www.abuseipdb.com/">AbuseIPDB</a></sub>
+    </td>
+  </tr>
+</table>
 
 ### Operating Systems
 
@@ -39,19 +56,40 @@ I'm focused on Security Operations Center (SOC) operations, threat detection, in
 
 ### AI & Development Tools
 
-<a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" width="36" height="36" alt="OpenAI Codex" /></a>
-&nbsp;&nbsp;
-<a href="https://chatgpt.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai-chatgpt/default.svg" width="36" height="36" alt="ChatGPT" /></a>
-&nbsp;&nbsp;
-<a href="https://claude.ai/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="36" height="36" alt="Claude" /></a>
-&nbsp;&nbsp;
-<a href="https://cursor.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cursor/default.svg" width="36" height="36" alt="Cursor" /></a>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://openai.com/codex/">
+        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" width="36" height="36" alt="OpenAI Codex" />
+      </a><br />
+      <sub><a href="https://openai.com/codex/">OpenAI Codex</a></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://chatgpt.com/">
+        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai-chatgpt/default.svg" width="36" height="36" alt="ChatGPT" />
+      </a><br />
+      <sub><a href="https://chatgpt.com/">ChatGPT</a></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://claude.ai/">
+        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" width="36" height="36" alt="Claude" />
+      </a><br />
+      <sub><a href="https://claude.ai/">Claude</a></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://cursor.com/">
+        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cursor/default.svg" width="36" height="36" alt="Cursor" />
+      </a><br />
+      <sub><a href="https://cursor.com/">Cursor</a></sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code" /><br />
-      <sub>VS Code</sub>
+      <sub>Visual Studio Code</sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="PyCharm" /><br />
@@ -110,7 +148,7 @@ I'm focused on Security Operations Center (SOC) operations, threat detection, in
   </tr>
 </table>
 
-### Backend & Database Services
+### Backend
 
 <table>
   <tr>
@@ -121,7 +159,7 @@ I'm focused on Security Operations Center (SOC) operations, threat detection, in
   </tr>
 </table>
 
-### Deployment & Infrastructure
+### Deployment
 
 <table>
   <tr>
